@@ -25,6 +25,8 @@ to fix it before dinner.
 | **[homelab-server](https://github.com/codemastervy/homelab-server)** | Self-hosted infrastructure: Ubuntu + Docker, Immich, AdGuard Home, Home Assistant, self-hosted Time Machine. Three real problems solved, including one upstream bug and one "correct fix that didn't work" |
 | **[live-streaming-guide](https://github.com/codemastervy/live-streaming-guide)** | A field-tested runbook for multi-camera live event streaming with OBS, a Blackmagic ATEM Mini and external audio |
 | **[simple-smb-file-browser](https://github.com/codemastervy/simple-smb-file-browser)** | Multiplatform SwiftUI app for browsing SMB2/3 shares on iPhone, iPad and Mac |
+| **[smb-web-client](https://github.com/codemastervy/smb-web-client)** | Self-hosted web client for SMB shares, in Docker — the same browser from any phone or laptop, no native app needed |
+| **[nas-dashboard](https://github.com/codemastervy/nas-dashboard)** | Self-hosted NAS dashboard for Docker: file browser, on-demand SMB sharing and host system monitoring — a CasaOS replacement |
 | **[design-video-portfolio](https://github.com/codemastervy/design-video-portfolio)** | Freelance video editing and design work |
 | **student-wellbeing-app** | Award-winning app for NZ students dealing with mental health difficulties, built with Rotorua Lakes Council through App LaunchPad (repo coming soon) |
 
