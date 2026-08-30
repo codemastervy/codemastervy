@@ -30,7 +30,6 @@ to fix it before dinner.
 | **[design-video-portfolio](https://github.com/codemastervy/design-video-portfolio)** | Freelance video editing and design work |
 | **[dependency-update-workflow](https://github.com/codemastervy/dependency-update-workflow)** | A GitHub Actions workflow that checks pip/npm/Docker updates on a schedule, pauses for real human approval by email, and only merges if CI passes |
 | **[portfolio-sync-action](https://github.com/codemastervy/portfolio-sync-action)** | GitHub Actions workflow that auto-adds new public repos to a portfolio site and a profile README. |
-| **[workflow-test](https://github.com/codemastervy/workflow-test)** | Temporary test repo for the auto-add-to-portfolio GitHub Action. Safe to delete. |
 | **student-wellbeing-app** | Award-winning app for NZ students dealing with mental health difficulties, built with Rotorua Lakes Council through App LaunchPad (repo coming soon) |
 
 ### Toolbox
