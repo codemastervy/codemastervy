@@ -28,12 +28,13 @@ to fix it before dinner.
 | **[smb-web-client](https://github.com/codemastervy/smb-web-client)** | Self-hosted web client for SMB shares, in Docker — the same browser from any phone or laptop, no native app needed |
 | **[nas-dashboard](https://github.com/codemastervy/nas-dashboard)** | Self-hosted NAS dashboard for Docker: file browser, on-demand SMB sharing and host system monitoring — a CasaOS replacement |
 | **[design-video-portfolio](https://github.com/codemastervy/design-video-portfolio)** | Freelance video editing and design work |
+| **[dependency-update-workflow](https://github.com/codemastervy/dependency-update-workflow)** | A GitHub Actions workflow that checks pip/npm/Docker updates on a schedule, pauses for real human approval by email, and only merges if CI passes |
 | **student-wellbeing-app** | Award-winning app for NZ students dealing with mental health difficulties, built with Rotorua Lakes Council through App LaunchPad (repo coming soon) |
 
 ### Toolbox
 
 `Python` · `C#` · `Java` · `JavaScript` · `HTML/CSS` · `Bash`
-`Linux (Ubuntu Server)` · `Docker & Docker Compose` · `systemd` · `Samba` · `DNS`
+`Linux (Ubuntu Server)` · `Docker & Docker Compose` · `systemd` · `Samba` · `DNS` · `GitHub Actions`
 Studying **AWS Cloud Practitioner (CLF-C02)**
 
 ### Beyond code
