@@ -31,7 +31,7 @@ to fix it before dinner.
 | **[dependency-update-workflow](https://github.com/codemastervy/dependency-update-workflow)** | A GitHub Actions workflow that checks pip/npm/Docker updates on a schedule, pauses for real human approval by email, and only merges if CI passes |
 | **[portfolio-sync-action](https://github.com/codemastervy/portfolio-sync-action)** | GitHub Actions workflow that auto-adds new public repos to a portfolio site and a profile README. |
 | **[floppy-run](https://github.com/codemastervy/floppy-run)** | A 2D platformer about a smiling floppy disk. Made in 2023 for a Level 3 game development course. It is not good. |
-| **[liquid-os](https://github.com/codemastervy/liquid-os)** | A liquid-glass themed Ubuntu respin, built entirely by GitHub Actions |
+| **[liquid-os](https://github.com/codemastervy/liquid-os)** | A full Ubuntu 24.04 desktop OS with a glassmorphism liquid-glass GNOME theme — translucent windows, live blur, and a real installer |
 | **student-wellbeing-app** | Award-winning app for NZ students dealing with mental health difficulties, built with Rotorua Lakes Council through App LaunchPad (repo coming soon) |
 
 ### Toolbox
