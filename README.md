@@ -32,6 +32,7 @@ to fix it before dinner.
 | **[portfolio-sync-action](https://github.com/codemastervy/portfolio-sync-action)** | GitHub Actions workflow that auto-adds new public repos to a portfolio site and a profile README. |
 | **[floppy-run](https://github.com/codemastervy/floppy-run)** | A 2D platformer about a smiling floppy disk. Made in 2023 for a Level 3 game development course. It is not good. |
 | **[liquid-os](https://github.com/codemastervy/liquid-os)** | A full Ubuntu 24.04 desktop OS with a glassmorphism liquid-glass GNOME theme — translucent windows, live blur, and a real installer |
+| **[Aquabots-Code-2026](https://github.com/codemastervy/Aquabots-Code-2026)** | PS4 controller → Arduino Mega control system for an underwater ROV (AquaBots). Python (pygame + pyserial) reads the gamepad and streams motor commands over serial; an Arduino sketch drives 4x BTS7960 modules for two drive thrusters and two lift thrusters. |
 | **student-wellbeing-app** | Award-winning app for NZ students dealing with mental health difficulties, built with Rotorua Lakes Council through App LaunchPad (repo coming soon) |
 
 ### Toolbox
