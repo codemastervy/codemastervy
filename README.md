@@ -35,6 +35,7 @@ to fix it before dinner.
 | **[Aquabots-Code-2026](https://github.com/codemastervy/Aquabots-Code-2026)** | PS4 controller → Arduino Mega control system for an underwater ROV (AquaBots). Python (pygame + pyserial) reads the gamepad and streams motor commands over serial; an Arduino sketch drives 4x BTS7960 modules for two drive thrusters and two lift thrusters. |
 | **[isherveers-tech-services](https://github.com/codemastervy/isherveers-tech-services)** | Computer/IT support, drone aerial photography, and custom 3D printing — Rotorua, NZ |
 | **[smb-share-manager](https://github.com/codemastervy/smb-share-manager)** | Small Docker container with a web UI for managing Samba shares and SMB users |
+| **[galaxy-bridge](https://github.com/codemastervy/galaxy-bridge)** | Use a Samsung Galaxy Watch (Wear OS) with an iPhone: Apple Health sync, iPhone notifications, calls, music, camera remote |
 | **student-wellbeing-app** | Award-winning app for NZ students dealing with mental health difficulties, built with Rotorua Lakes Council through App LaunchPad (repo coming soon) |
 
 ### Toolbox
