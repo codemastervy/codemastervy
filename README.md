@@ -36,6 +36,7 @@ to fix it before dinner.
 | **[isherveers-tech-services](https://github.com/codemastervy/isherveers-tech-services)** | Computer/IT support, drone aerial photography, and custom 3D printing — Rotorua, NZ |
 | **[smb-share-manager](https://github.com/codemastervy/smb-share-manager)** | Small Docker container with a web UI for managing Samba shares and SMB users |
 | **[galaxy-bridge](https://github.com/codemastervy/galaxy-bridge)** | Use a Samsung Galaxy Watch (Wear OS) with an iPhone: Apple Health sync, iPhone notifications, calls, music, camera remote |
+| **[ha-tv-app](https://github.com/codemastervy/ha-tv-app)** | Home Assistant dashboard for Android TV / Google TV, driven by the remote, with a door-camera pop-up over any app |
 | **student-wellbeing-app** | Award-winning app for NZ students dealing with mental health difficulties, built with Rotorua Lakes Council through App LaunchPad (repo coming soon) |
 
 ### Toolbox
