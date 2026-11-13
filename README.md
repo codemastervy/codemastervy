@@ -40,6 +40,7 @@ to fix it before dinner.
 | **[tv-home-card](https://github.com/codemastervy/tv-home-card)** | Remote-first Home Assistant dashboard card for Android TV / Google TV: cameras, rooms, lights, D-pad navigation |
 | **[underwater-rov-backup](https://github.com/codemastervy/underwater-rov-backup)** | ROV backup: laptop (EndeavourOS) + Arduino Mega drives 4x BTS7960 from a PS5/PS4 controller |
 | **[underwater-rov](https://github.com/codemastervy/underwater-rov)** | Raspberry Pi 4 ROV: PS5/PS4 controller over Bluetooth drives 4x BTS7960 thrusters, with touchscreen dashboard, drive profiles and camera |
+| **[unity-app](https://github.com/codemastervy/unity-app)** | Unity — free mental health & wellbeing app for NZ teens (work in progress, proprietary). Live demo on GitHub Pages. |
 | **student-wellbeing-app** | Award-winning app for NZ students dealing with mental health difficulties, built with Rotorua Lakes Council through App LaunchPad (repo coming soon) |
 
 ### Toolbox
